@@ -2,6 +2,7 @@
 
 int main()
 {
+    printf("Enter Marks of each student\n");
     int students_marks[6][1];
     int pass_student = 0;
     for (int i = 0; i < 6; i++)
